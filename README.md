@@ -1,6 +1,8 @@
 ## 履歴荒らしツール
 ### ダウンロードは[こちら](https://github.com/rirekikesou/rirekikesou/releases/download/releases/main.html)
 
+### 対応OS
+> Chromebook(chrome)
 <!--
 **rirekikesou/rirekikesou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
